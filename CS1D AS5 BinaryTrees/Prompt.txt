@@ -1,0 +1,19 @@
+Implement a binary tree using an array, vector or linked list. 
+(Note: duplicates are allowed in a binary tree)
+
+Store the following elements using the properties of a binary 
+search tree.
+
+25, 59, 288, 19, 13, 888, 109, 55, 118, 89, 33, 1001, 18, 44, 88, 
+12, 24, 49, 9, 
+
+Perform the in-order, post-order, pre-order, breadth-first 
+traversals.
+
+In addition to the traversals, print out the binary tree by 
+level. Show the parent-child relationship for all the nodes of 
+the tree.
+
+
+Due February 19th
+
